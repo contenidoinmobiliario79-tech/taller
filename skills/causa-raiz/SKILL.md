@@ -1,6 +1,6 @@
 ---
 name: causa-raiz
-description: Usar ante un bug o test que falla. Reproduce, aísla y confirma. Si la causa sigue en producción, cerrá con: Causa en producción: … ¿Querés que la saque? Use for debugging.
+description: "Usar ante un bug o test que falla. Reproduce, aísla y confirma. Si la causa sigue en producción, cerrá con «Causa en producción: … ¿Querés que la saque?». Use for debugging."
 ---
 
 # Causa raíz

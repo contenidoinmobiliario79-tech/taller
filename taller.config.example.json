@@ -1,0 +1,29 @@
+{
+  "idioma": "es",
+  "modo_por_defecto": "auto",
+  "presupuesto_tokens": {
+    "rapido": 20000,
+    "normal": 120000,
+    "profundo": 400000,
+    "avisar_al_porcentaje": 80
+  },
+  "fases": {
+    "entender_pedido": true,
+    "plan": true,
+    "revision": "segun_riesgo",
+    "tests_primero": true,
+    "rama_aislada": true
+  },
+  "modelos_por_rol": {
+    "coordinador": "",
+    "implementador": "",
+    "revisor": ""
+  },
+  "contenido": {
+    "plataformas": ["tiktok", "reels"],
+    "duracion_segundos": 30,
+    "tono": "cercano",
+    "publico": ""
+  },
+  "carpeta_planes": "docs/taller/planes"
+}

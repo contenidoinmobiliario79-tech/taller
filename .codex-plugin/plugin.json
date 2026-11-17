@@ -1,0 +1,23 @@
+{
+  "name": "taller",
+  "version": "1.3.0",
+  "description": "Metodología para agentes en español que se ajusta al tamaño de la tarea: modos Rápido/Normal/Profundo, presupuesto de tokens, código y contenido corto.",
+  "author": {
+    "name": "Yuliet Gutierrez"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "spanish", "planning", "token-budget", "content", "tiktok"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Taller",
+    "shortDescription": "Trabajo de agente proporcional a la tarea, en español",
+    "longDescription": "Taller clasifica cada pedido en Rápido, Normal o Profundo, avisa antes de pasarse del presupuesto de tokens y exige evidencia antes de dar algo por terminado. Incluye una rama de código (tests, ramas aisladas, revisión) y una rama de contenido corto (ganchos, guiones, storyboard y calendario).",
+    "developerName": "Yuliet Gutierrez",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Quiero agregar una función a este proyecto.",
+      "Armame un guion de 30 segundos para un Reel."
+    ]
+  }
+}

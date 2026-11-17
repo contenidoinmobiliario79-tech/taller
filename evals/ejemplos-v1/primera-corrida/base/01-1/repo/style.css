@@ -1,0 +1,8 @@
+body { font-family: sans-serif; }
+.btn-enviar {
+  background-color: #1E66F5;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+}
+.btn-enviar:hover { background-color: #1A52C4; }

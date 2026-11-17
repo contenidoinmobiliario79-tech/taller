@@ -1,0 +1,22 @@
+name: Idea o skill nueva · Idea or new skill
+description: Proponé una mejora o una skill nueva. / Suggest an improvement or a new skill.
+labels: ["idea"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qué problema resuelve · Problem it solves
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Propuesta · Proposal
+      description: Qué haría el agente distinto. Un ejemplo de pedido y respuesta ayuda mucho.
+    validations:
+      required: true
+  - type: textarea
+    id: eval
+    attributes:
+      label: Cómo lo probaríamos · How we would test it
+      description: 2 o 3 pedidos con el comportamiento esperado.

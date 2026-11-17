@@ -1,0 +1,12 @@
+diff --git a/style.css b/style.css
+index 849956f..b83681d 100644
+--- a/style.css
++++ b/style.css
+@@ -1,6 +1,6 @@
+ body { font-family: sans-serif; }
+ .btn-enviar {
+-  background-color: #2ECC71;
++  background-color: #1E66F5;
+   color: #fff;
+   border: none;
+   padding: 8px 16px;

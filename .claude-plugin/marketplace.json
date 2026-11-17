@@ -1,0 +1,14 @@
+{
+  "name": "taller-marketplace",
+  "description": "Marketplace local del pack Taller",
+  "owner": {
+    "name": "Yuliet Gutierrez"
+  },
+  "plugins": [
+    {
+      "name": "taller",
+      "source": "./",
+      "description": "Metodología para agentes en español que se ajusta al tamaño de la tarea, con rama de código y rama de contenido corto."
+    }
+  ]
+}

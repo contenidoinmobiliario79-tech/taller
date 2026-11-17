@@ -1,0 +1,6 @@
+[
+  {
+    "nombre": "Ana",
+    "ciudad": "Córdoba, AR"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "taller-marketplace",
+  "interface": {
+    "displayName": "Taller"
+  },
+  "plugins": [
+    {
+      "name": "taller",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

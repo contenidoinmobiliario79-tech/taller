@@ -1,0 +1,18 @@
+{"pedido": "Corregí la falta de ortografía en el título del README.", "skill_esperada": "verificar"}
+{"pedido": "Quiero una página para mi tienda.", "skill_esperada": "entender-pedido"}
+{"pedido": "Ok, planificá la migración a Postgres que acordamos.", "skill_esperada": "plan-con-presupuesto"}
+{"pedido": "Ejecutá el plan de docs/taller/planes/modo-oscuro.md.", "skill_esperada": "ejecutar-y-revisar"}
+{"pedido": "¿Ya quedó arreglado el login?", "skill_esperada": "verificar"}
+{"pedido": "El test de pagos falla a veces.", "skill_esperada": "causa-raiz"}
+{"pedido": "Listo, terminamos el modo oscuro.", "skill_esperada": "cerrar-trabajo"}
+{"pedido": "Agregá una función que calcule el IVA.", "skill_esperada": "tests-primero"}
+{"pedido": "Empezá la migración grande.", "skill_esperada": "rama-aislada"}
+{"pedido": "Revisá esta rama antes de mergear.", "skill_esperada": "revision-de-codigo"}
+{"pedido": "Ganchos para un video de cómo atar un hiyab en 1 minuto.", "skill_esperada": "gancho-3-segundos"}
+{"pedido": "Guion de 30 s para presentar mi tienda.", "skill_esperada": "guion-corto"}
+{"pedido": "Hacé el storyboard de este guion (adjunto).", "skill_esperada": "storyboard-y-portada"}
+{"pedido": "Calendario de una semana para mi marca de ropa.", "skill_esperada": "calendario-de-contenido"}
+{"pedido": "Creá una skill para escribir descripciones de productos.", "skill_esperada": "crear-skill"}
+{"pedido": "¿Por qué esta sesión gastó tanto?", "skill_esperada": "diagnostico"}
+{"pedido": "Planificá una semana de Reels para una tienda de ropa modesta que recién empieza.", "skill_esperada": "calendario-de-contenido"}
+{"pedido": "Hacé el storyboard con prompts de imagen para mi novela, que la protagonista sea siempre la misma.", "skill_esperada": "storyboard-y-portada"}

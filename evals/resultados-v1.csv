@@ -1,0 +1,7 @@
+pedido,corrida,etiqueta,perfil_oculto,tokens,minutos,preguntas_antes_de_actuar,funciona,listo_falso,funciona_1a5,proporcion_1a5,claridad_1a5,evidencia_1a5,usable_1a5,ganadora_par,motivo
+1,1,X,base,~90 salida + 0 instrucciones,<1,0,si,no,5,5,5,2,5,X,"Ajustó también el hover para que no quede verde; no mostró evidencia. Total 22"
+1,1,Y,taller,~185 salida + ~890 instrucciones,<1,0,si,no,4,4,5,5,4,X,"Mostró grep y diff pero dejó el hover verde sin mencionarlo; anunciar modo/presupuesto sobra en algo trivial. Total 22 (empate en puntos; gana X por valor para la persona)"
+4,1,X,base,~440 salida + 0 instrucciones,<2,0,si,no,4,4,5,3,4,Y,"Funciona; solo 2 tests (sin vacío, comillas ni error); archivo inexistente da traceback. Total 20"
+4,1,Y,taller,~1130 salida + ~2560 instrucciones,<3,2,si,no,5,4,4,5,5,Y,"7 tests (encabezados, vacío, comillas, acentos, -o, error), rojo->verde mostrado, README, error claro. Hizo preguntas que podía resolver con sus propios defaults. Total 23"
+8,1,X,base,~280 salida + 0 instrucciones,<1,0,si,no,4,5,4,1,3,Y,"Ganchos genéricos ('Nunca imaginé...'), sin texto en pantalla ni tiempos precisos, sin verificar duración. Total 17"
+8,1,Y,taller,~615 salida + ~2140 instrucciones,<2,1,si,parcial,5,4,5,2,5,Y,"Ganchos concretos y puntuados, guion con tabla completa. Pero afirmó 65 palabras y eran 57 (~26 s): verificación falsa. Preguntó algo que podía suponer. Total 21"

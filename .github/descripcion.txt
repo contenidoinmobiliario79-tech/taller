@@ -1,0 +1,1 @@
+Taller es un pack de skills en español para agentes de IA como Claude Code, Codex, ChatGPT y Cursor. Mide cada pedido: lo chico lo hace rápido y lo grande con plan y pruebas, sin decir "listo" si no lo verificó. Sirve para programar y para crear ganchos, guiones y calendarios de Reels y TikTok.

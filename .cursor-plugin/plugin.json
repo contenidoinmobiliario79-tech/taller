@@ -1,0 +1,12 @@
+{
+  "name": "taller",
+  "displayName": "Taller",
+  "description": "Metodología para agentes en español que se ajusta al tamaño de la tarea: modos Rápido/Normal/Profundo, presupuesto de tokens, código y contenido corto.",
+  "version": "1.3.0",
+  "author": {
+    "name": "Yuliet Gutierrez"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "spanish", "planning", "token-budget", "content", "tiktok"],
+  "skills": "./skills/"
+}

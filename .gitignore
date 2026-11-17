@@ -1,0 +1,9 @@
+dist/*
+!dist/taller-chatgpt.md
+.taller/
+evals/runs/
+*.zip
+.DS_Store
+
+__pycache__/
+*.pyc
